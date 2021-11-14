@@ -1,7 +1,7 @@
 # national-park-web-app
 A web-based application meant to help people search for National Parks based on available activities. Created for the [Capital One Software Engineering Summit Challenge](https://www.mindsumo.com/contests/capital-one-engineering-summit-national-parks) (Fall 2021). 
 
-This project was completed using the [Vaadin](https://vaadin.com/) development platform (as well as its associated libaries), and thus the vast majority of coding, for both frontend and backend, were done using Java. Data for National Parks, National Park webcams, and other associated data was gathered using the [National Park Service API](https://www.nps.gov/subjects/developer/api-documentation.htm#/).
+This project was completed using the [Vaadin](https://vaadin.com/) development platform (as well as its associated libaries), and thus the vast majority of coding, for both frontend and backend, were done using Java (which can be found within this path -> src/main/java/org/vaadin/example). Data for National Parks, National Park webcams, and other associated data was gathered using the [National Park Service API](https://www.nps.gov/subjects/developer/api-documentation.htm#/).
 
 Requirements:
 [x] **Let visitors search from a list of activities to do at different National Parks**
