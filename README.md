@@ -5,6 +5,7 @@ This project was completed using the [Vaadin](https://vaadin.com/) development p
 
 
 Requirements:
+
 [x] **Let visitors search from a list of activities to do at different National Parks**
 Dropdown menu with autofill to let the user search from the given list of activities.
 
