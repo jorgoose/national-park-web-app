@@ -1,12 +1,5 @@
-# Project Base for Vaadin and Spring Boot
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
-
-The best way to create your own project based on this starter is via [start.
-vaadin.com](https://start.vaadin.com/).
-
-## Running the Application
+# Running the Application
 The project is a standard Maven project. To run it from the command line, type `mvn` and open http://localhost:8080 in your browser.
 
 You can also import the project to your IDE of choice as you would with any
@@ -37,7 +30,7 @@ The project follow Maven's [standard directory layout structure](https://maven.a
   dependencies and resource files. Example CSS styles used by the application 
   are located under `frontend/styles`
 
-## Useful links
+## Useful Vaadin links
 
 - Read the documentation at [vaadin.com/docs](https://vaadin.com/docs).
 - Follow the tutorials at [vaadin.com/tutorials](https://vaadin.com/tutorials).
