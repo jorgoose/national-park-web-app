@@ -6,16 +6,6 @@ You can also import the project to your IDE of choice as you would with any
 Maven project. Read more on [how to set up a development environment for
 Vaadin projects](https://vaadin.com/docs/latest/guide/install) (Windows, Linux, macOS).
 
-### Running Integration Tests
-
-Integration tests are implemented using [Vaadin TestBench](https://vaadin.com/testbench). The tests take a few minutes to run and are therefore included in a separate Maven profile. We recommend running tests with a production build to minimize the chance of development time toolchains affecting test stability. To run the tests using Google Chrome, execute
-
-`mvn verify -Pit,production`
-
-and make sure you have a valid TestBench license installed (you can obtain a 
-trial license from the [trial page](
-https://vaadin.com/trial)).
-
 ## Project structure
 
 The project follow Maven's [standard directory layout structure](https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html):
